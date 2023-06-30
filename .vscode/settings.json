@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "C:\\Users\\NRBG1313\\Application Data\\Python\\Python39\\Scripts",
+        "azure\\functions\\azcog_func_app\\.venv\\Lib\\site-packages"
+    ],
+    "[python]": {
+        "editor.formatOnType": true
+    }
+}
